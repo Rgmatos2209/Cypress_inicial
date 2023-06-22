@@ -1,0 +1,14 @@
+{
+  "name": "cypress_saucedemo",
+  "version": "1.0.0",
+  "description": "Practicas de cypress POM con sauceDemo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RafaMatos",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.15.0"
+  }
+}
